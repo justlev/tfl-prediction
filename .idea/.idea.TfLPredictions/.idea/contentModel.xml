@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AnnouncementsManager" t="IncludeRecursive">
+        <e p="AnnouncementsManager.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="IAnnouncementsManager.cs" t="Include" />
+          <e p="IAnnouncer.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="AnnouncementsManager.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="DefaultAnnouncementsManager.cs" t="Include" />
+          <e p="DefaultAnnouncer.cs" t="Include" />
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="StationBoard" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FileStationBoard.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="IStationBoard.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="StationBoard.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StationBoard.csproj" t="IncludeRecursive" />
+      </e>
       <e p="StationOrchestrator" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Models" t="Include">
@@ -52,18 +86,6 @@
           <e p="PollingProvider.cs" t="Include" />
         </e>
         <e p="TFLDataProvider.csproj" t="IncludeRecursive" />
-      </e>
-      <e p="TfLPredictions" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp2.0" t="Include">
-              <e p="TfLPredictions.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="Program.cs" t="Include" />
-        <e p="TfLPredictions.csproj" t="IncludeRecursive" />
       </e>
       <e p="TfLPredictions.sln" t="IncludeFlat" />
     </e>

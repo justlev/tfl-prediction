@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <TargetFramework>netcoreapp2.0</TargetFramework>
-    </PropertyGroup>
-
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StationState\StationState.csproj">
+      <Project>{6082F6E5-A7CA-46F1-8D15-A4954FA135B5}</Project>
+      <Name>StationState</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

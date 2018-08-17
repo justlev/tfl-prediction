@@ -196,6 +196,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "StationState/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "TFLDataProvider": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StationState.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StationState.dll": {}
+        }
+      },
+      "TFLDataProvider/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TFLDataProvider.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TFLDataProvider.dll": {}
+        }
       }
     }
   },
@@ -656,11 +679,22 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "StationState/1.0.0": {
+      "type": "project",
+      "path": "../StationState/StationState.csproj",
+      "msbuildProject": "../StationState/StationState.csproj"
+    },
+    "TFLDataProvider/1.0.0": {
+      "type": "project",
+      "path": "../TFLDataProvider/TFLDataProvider.csproj",
+      "msbuildProject": "../TFLDataProvider/TFLDataProvider.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "StationState >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -690,7 +724,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj": {
+              "projectPath": "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

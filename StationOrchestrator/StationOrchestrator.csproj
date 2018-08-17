@@ -3,6 +3,18 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AnnouncementsManager\AnnouncementsManager.csproj">
+      <Project>{6DE51190-E704-4DEA-BCC0-1BC98697A523}</Project>
+      <Name>AnnouncementsManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StationBoard\StationBoard.csproj">
+      <Project>{7E67EAAA-DABB-4B5B-95BC-FDDFF3FCA1F7}</Project>
+      <Name>StationBoard</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StationState\StationState.csproj">
+      <Project>{6082F6E5-A7CA-46F1-8D15-A4954FA135B5}</Project>
+      <Name>StationState</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TFLDataProvider\TFLDataProvider.csproj">
       <Project>{9D26E9F2-FA99-40CE-8241-4070F56F37D4}</Project>
       <Name>TFLDataProvider</Name>

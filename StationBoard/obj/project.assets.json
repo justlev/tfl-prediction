@@ -196,52 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "AnnouncementsManager/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "StationState": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/AnnouncementsManager.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AnnouncementsManager.dll": {}
-        }
-      },
-      "StationBoard/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/StationBoard.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/StationBoard.dll": {}
-        }
-      },
-      "StationState/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "TFLDataProvider": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/StationState.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/StationState.dll": {}
-        }
-      },
-      "TFLDataProvider/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/TFLDataProvider.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TFLDataProvider.dll": {}
-        }
       }
     }
   },
@@ -702,35 +656,11 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "AnnouncementsManager/1.0.0": {
-      "type": "project",
-      "path": "../AnnouncementsManager/AnnouncementsManager.csproj",
-      "msbuildProject": "../AnnouncementsManager/AnnouncementsManager.csproj"
-    },
-    "StationBoard/1.0.0": {
-      "type": "project",
-      "path": "../StationBoard/StationBoard.csproj",
-      "msbuildProject": "../StationBoard/StationBoard.csproj"
-    },
-    "StationState/1.0.0": {
-      "type": "project",
-      "path": "../StationState/StationState.csproj",
-      "msbuildProject": "../StationState/StationState.csproj"
-    },
-    "TFLDataProvider/1.0.0": {
-      "type": "project",
-      "path": "../TFLDataProvider/TFLDataProvider.csproj",
-      "msbuildProject": "../TFLDataProvider/TFLDataProvider.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "AnnouncementsManager >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.0.0",
-      "StationBoard >= 1.0.0",
-      "StationState >= 1.0.0",
-      "TFLDataProvider >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -740,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/StationOrchestrator.csproj",
-      "projectName": "StationOrchestrator",
-      "projectPath": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/StationOrchestrator.csproj",
+      "projectUniqueName": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj",
+      "projectName": "StationBoard",
+      "projectPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj",
       "packagesPath": "/Users/levperlman/.nuget/packages/",
-      "outputPath": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/obj/",
+      "outputPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -760,20 +690,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj": {
-              "projectPath": "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj"
-            },
-            "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj": {
-              "projectPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj"
-            },
-            "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj": {
-              "projectPath": "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj"
-            },
-            "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj": {
-              "projectPath": "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

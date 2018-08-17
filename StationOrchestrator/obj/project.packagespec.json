@@ -15,6 +15,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "projectReferences": {
+          "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj": {
+            "projectPath": "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj"
+          },
+          "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj": {
+            "projectPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj"
+          },
+          "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj": {
+            "projectPath": "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj"
+          },
           "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj": {
             "projectPath": "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj"
           }

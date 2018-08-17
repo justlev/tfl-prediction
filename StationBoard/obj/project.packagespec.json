@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj",
-    "projectName": "AnnouncementsManager",
-    "projectPath": "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/AnnouncementsManager.csproj",
-    "outputPath": "/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/",
+    "projectUniqueName": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj",
+    "projectName": "StationBoard",
+    "projectPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/StationBoard.csproj",
+    "outputPath": "/Users/levperlman/Git/tfl-predictions/StationBoard/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -14,11 +14,7 @@
     ],
     "frameworks": {
       "netcoreapp2.0": {
-        "projectReferences": {
-          "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj": {
-            "projectPath": "/Users/levperlman/Git/tfl-predictions/StationState/StationState.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {

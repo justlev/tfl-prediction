@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/StationOrchestrator.csproj",
+    "projectName": "StationOrchestrator",
+    "projectPath": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/StationOrchestrator.csproj",
+    "outputPath": "/Users/levperlman/Git/tfl-predictions/StationOrchestrator/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj": {
+            "projectPath": "/Users/levperlman/Git/tfl-predictions/TFLDataProvider/TFLDataProvider.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

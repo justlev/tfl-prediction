@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TFLDataProvider\TFLDataProvider.csproj">
+      <Project>{9D26E9F2-FA99-40CE-8241-4070F56F37D4}</Project>
+      <Name>TFLDataProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

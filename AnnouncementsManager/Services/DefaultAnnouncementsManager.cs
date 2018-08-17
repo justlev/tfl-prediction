@@ -19,6 +19,8 @@ namespace AnnouncementsManager.Services
         public void ManageAnnouncementsByStationState(IStationState state)
         {
             state.ScheduleUpdated += OnScheduleUpdated;
+            
+            //TODO: Cleanup
         }
 
         private void OnScheduleUpdated(object sender, ITflStationSchedule e)

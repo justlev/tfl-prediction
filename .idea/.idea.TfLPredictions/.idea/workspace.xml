@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc898fd8-a75a-4249-b69f-2d91cceebcd5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" afterPath="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" />
+      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" afterPath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" />
+      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" afterPath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +67,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
-                <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+                <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IAnnouncer.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IAnnouncer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="121" lean-forward="false" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
+            <state relative-caret-position="105">
+              <caret line="9" column="104" lean-forward="false" selection-start-line="9" selection-start-column="104" selection-end-line="9" selection-end-column="104" />
               <folding>
                 <marker date="1534507313549" expanded="false" signature="6:77" ph="..." />
                 <marker date="1534507313549" expanded="true" signature="116:432" ph="{...}" />
@@ -132,22 +132,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultAnnouncer.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DefaultAnnouncer.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="42" column="56" lean-forward="false" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+            <state relative-caret-position="310">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding>
-                <marker date="1534501819472" expanded="false" signature="6:166" ph="..." />
-                <marker date="1534501819472" expanded="true" signature="207:1792" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="256:1790" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="576:928" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="636:918" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="965:1216" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1093:1185" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1319:1784" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1482:1760" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1585:1742" ph="{...}" />
+                <marker date="1534507413649" expanded="false" signature="6:166" ph="..." />
+                <marker date="1534507413649" expanded="true" signature="207:2017" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="256:2015" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="576:1053" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="636:1043" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="1090:1441" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="1318:1410" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="1544:2009" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="1707:1985" ph="{...}" />
+                <marker date="1534507413649" expanded="true" signature="1810:1967" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -156,16 +156,16 @@
       <file leaf-file-name="DefaultAnnouncementsManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <marker date="1534501191122" expanded="false" signature="6:105" ph="..." />
-                <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+                <marker date="1534507340772" expanded="false" signature="6:105" ph="..." />
+                <marker date="1534507340772" expanded="true" signature="146:1010" ph="{...}" />
+                <marker date="1534507340772" expanded="true" signature="217:1008" ph="{...}" />
+                <marker date="1534507340772" expanded="true" signature="408:464" ph="{...}" />
+                <marker date="1534507340772" expanded="true" signature="548:665" ph="{...}" />
+                <marker date="1534507340772" expanded="true" signature="743:881" ph="{...}" />
+                <marker date="1534507340772" expanded="true" signature="940:1002" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -226,8 +226,6 @@
         <option value="$PROJECT_DIR$/AnnouncementsManager/Models/IScheduler.cs" />
         <option value="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs" />
         <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultScheduler.cs" />
-        <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" />
-        <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" />
         <option value="$PROJECT_DIR$/StationBoard/Class1.cs" />
         <option value="$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs" />
         <option value="$PROJECT_DIR$/ConsoleTestApp/Program.cs" />
@@ -249,6 +247,8 @@
         <option value="$PROJECT_DIR$/StationOrchestrator.Tests/Orchestrator/DefaultOrchestratorTests.cs" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" />
+        <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" />
+        <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" />
       </list>
     </option>
   </component>
@@ -358,12 +358,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534498124798</updated>
       <workItem from="1534498126040" duration="7117000" />
-      <workItem from="1534506186474" duration="1097000" />
+      <workItem from="1534506186474" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8214000" />
+    <option name="totallyTimeSpent" value="8315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,16 +521,16 @@
         <state relative-caret-position="555">
           <caret line="42" column="56" lean-forward="false" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding>
-            <marker date="1534501819472" expanded="false" signature="6:166" ph="..." />
-            <marker date="1534501819472" expanded="true" signature="207:1792" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="256:1790" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="576:928" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="636:918" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="965:1216" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1093:1185" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1319:1784" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1482:1760" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1585:1742" ph="{...}" />
+            <marker date="1534507413649" expanded="false" signature="6:166" ph="..." />
+            <marker date="1534507413649" expanded="true" signature="207:2017" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="256:2015" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="576:1053" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="636:1043" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1090:1441" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1318:1410" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1544:2009" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1707:1985" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1810:1967" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -540,13 +540,13 @@
         <state relative-caret-position="330">
           <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
-            <marker date="1534501191122" expanded="false" signature="6:105" ph="..." />
-            <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+            <marker date="1534507340772" expanded="false" signature="6:105" ph="..." />
+            <marker date="1534507340772" expanded="true" signature="146:1010" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="217:1008" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="408:464" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="548:665" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="743:881" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="940:1002" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -775,46 +775,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <marker date="1534501191122" expanded="false" signature="6:105" ph="..." />
-            <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="42" column="56" lean-forward="false" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-          <folding>
-            <marker date="1534501819472" expanded="false" signature="6:166" ph="..." />
-            <marker date="1534501819472" expanded="true" signature="207:1792" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="256:1790" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="576:928" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="636:918" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="965:1216" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1093:1185" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1319:1784" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1482:1760" ph="{...}" />
-            <marker date="1534501819472" expanded="true" signature="1585:1742" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
-            <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
@@ -829,12 +794,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="121" lean-forward="false" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
+        <state relative-caret-position="105">
+          <caret line="9" column="104" lean-forward="false" selection-start-line="9" selection-start-column="104" selection-end-line="9" selection-end-column="104" />
           <folding>
             <marker date="1534507313549" expanded="false" signature="6:77" ph="..." />
             <marker date="1534507313549" expanded="true" signature="116:432" ph="{...}" />
             <marker date="1534507313549" expanded="true" signature="272:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1534507340772" expanded="false" signature="6:105" ph="..." />
+            <marker date="1534507340772" expanded="true" signature="146:1010" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="217:1008" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="408:464" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="548:665" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="743:881" ph="{...}" />
+            <marker date="1534507340772" expanded="true" signature="940:1002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <marker date="1534507413649" expanded="false" signature="6:166" ph="..." />
+            <marker date="1534507413649" expanded="true" signature="207:2017" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="256:2015" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="576:1053" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="636:1043" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1090:1441" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1318:1410" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1544:2009" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1707:1985" ph="{...}" />
+            <marker date="1534507413649" expanded="true" signature="1810:1967" ph="{...}" />
           </folding>
         </state>
       </provider>

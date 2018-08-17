@@ -16,6 +16,8 @@ namespace AnnouncementsManager.Services
         {
             foreach (var itemToAnnounce in items)
             {
+                //For each item to announce - schedule an announcement task and create a cancellation token
+                
                 var task = new Task(() => AnnouncingTask(itemToAnnounce, announceAction));
                 lock (_lock)
                 {
@@ -26,6 +28,7 @@ namespace AnnouncementsManager.Services
 
         public void ClearSchedule()
         {
+            //When an update is received - we will clreat the scheduled - by cancelling all tokens.
             lock (_lock)
             {
                 foreach (var pendingAnnouncement in _trainToCancellationToken)

@@ -24,6 +24,21 @@
           <e p="DefaultAnnouncer.cs" t="Include" />
         </e>
       </e>
+      <e p="AnnouncementsManager.Tests" t="IncludeRecursive">
+        <e p="AnnouncementsManager.Tests.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="AnnouncementsManager.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="AnnouncementsManager.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="DefaultAnnouncementsManagerTests.cs" t="Include" />
+        </e>
+      </e>
       <e p="ConsoleTestApp" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Config" t="Include">
@@ -75,6 +90,21 @@
           <e p="DefaultOrchestrator.cs" t="Include" />
         </e>
         <e p="StationOrchestrator.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="StationOrchestrator.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="StationOrchestrator.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="StationOrchestrator.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Orchestrator" t="Include">
+          <e p="DefaultOrchestratorTests.cs" t="Include" />
+        </e>
+        <e p="StationOrchestrator.Tests.csproj" t="IncludeRecursive" />
       </e>
       <e p="StationState" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />

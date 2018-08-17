@@ -91,6 +91,10 @@
       <e p="TFLDataProvider" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Models" t="Include">
+          <e p="Contracts" t="Include">
+            <e p="TflScheduleItem.cs" t="Include" />
+            <e p="TflStationSchedule.cs" t="Include" />
+          </e>
           <e p="ITflProvider.cs" t="Include" />
           <e p="ITflScheduledItem.cs" t="Include" />
           <e p="ITflStationSchedule.cs" t="Include" />

@@ -2,96 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc898fd8-a75a-4249-b69f-2d91cceebcd5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CopyComplete" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/ConsoleTestApp.csproj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Program.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.runtimeconfig.dev.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.runtimeconfig.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationBoard.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationOrchestrator.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationState.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationState.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.g.props" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.g.targets" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.AssemblyInfo.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.AssemblyInfoInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.CopyComplete" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/project.assets.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/project.packagespec.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationBoard.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationState.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationState.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.CopyComplete" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/Models/DefaultStationState.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CopyComplete" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflScheduleItem.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflStationSchedule.cs" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" afterPath="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" />
-      <change beforePath="$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" afterPath="$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" />
-      <change beforePath="$PROJECT_DIR$/TfLPredictions.sln" afterPath="$PROJECT_DIR$/TfLPredictions.sln" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -134,20 +47,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IContainer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-              <folding>
-                <marker date="1534502655934" expanded="true" signature="6:152" ph="..." />
-                <marker date="1534502655934" expanded="true" signature="188:484" ph="{...}" />
-                <marker date="1534502655934" expanded="true" signature="222:482" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DefaultContainer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,29 +65,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultStationState.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StationState/Models/DefaultStationState.cs">
+      <file leaf-file-name="DefaultAppConfig.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <marker date="1534502924522" expanded="true" signature="6:43" ph="..." />
-                <marker date="1534502924522" expanded="true" signature="74:490" ph="{...}" />
-                <marker date="1534502924522" expanded="true" signature="129:488" ph="{...}" />
-                <marker date="1534502924522" expanded="true" signature="363:482" ph="{...}" />
+                <marker date="1534503059908" expanded="true" signature="31:263" ph="{...}" />
+                <marker date="1534503059908" expanded="true" signature="74:261" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultAppConfig.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs">
+      <file leaf-file-name="ConsoleTestApp.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/ConsoleTestApp.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TflScheduleItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflScheduleItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
-                <marker date="1534503059908" expanded="true" signature="31:263" ph="{...}" />
-                <marker date="1534503059908" expanded="true" signature="74:261" ph="{...}" />
+                <marker date="1534503285826" expanded="true" signature="57:1064" ph="{...}" />
+                <marker date="1534503285826" expanded="true" signature="131:1062" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TflStationSchedule.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflStationSchedule.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <marker date="1534503352655" expanded="true" signature="6:47" ph="..." />
+                <marker date="1534503352655" expanded="true" signature="91:401" ph="{...}" />
+                <marker date="1534503352655" expanded="true" signature="170:399" ph="{...}" />
+                <marker date="1534503352655" expanded="true" signature="336:393" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -247,19 +169,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IStationOrchestrator.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StationOrchestrator/Models/IStationOrchestrator.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <marker date="1534499528389" expanded="true" signature="36:145" ph="{...}" />
-                <marker date="1534499528389" expanded="true" signature="80:143" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -273,6 +182,8 @@
     <setting file="file://$PROJECT_DIR$/TfLPredictions/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflScheduleItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflStationSchedule.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -317,6 +228,8 @@
         <option value="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" />
         <option value="$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs" />
         <option value="$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs" />
+        <option value="$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflScheduleItem.cs" />
+        <option value="$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflStationSchedule.cs" />
       </list>
     </option>
   </component>
@@ -357,74 +270,20 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TFLDataProvider" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Config" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Container" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationBoard" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationBoard" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationOrchestrator" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationOrchestrator" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Orchestrator" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationState" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StationState" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TFLDataProvider" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="TFLDataProvider" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Contracts" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -480,12 +339,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534498124798</updated>
-      <workItem from="1534498126040" duration="4218000" />
+      <workItem from="1534498126040" duration="4454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4218000" />
+    <option name="totallyTimeSpent" value="4454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,6 +357,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="23" width="1680" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -506,7 +366,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -851,10 +711,42 @@
     <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <marker date="1534503059908" expanded="true" signature="31:263" ph="{...}" />
             <marker date="1534503059908" expanded="true" signature="74:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/ConsoleTestApp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflScheduleItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1534503285826" expanded="true" signature="57:1064" ph="{...}" />
+            <marker date="1534503285826" expanded="true" signature="131:1062" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFLDataProvider/Models/Contracts/TflStationSchedule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1534503352655" expanded="true" signature="6:47" ph="..." />
+            <marker date="1534503352655" expanded="true" signature="91:401" ph="{...}" />
+            <marker date="1534503352655" expanded="true" signature="170:399" ph="{...}" />
+            <marker date="1534503352655" expanded="true" signature="336:393" ph="{...}" />
           </folding>
         </state>
       </provider>

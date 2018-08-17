@@ -12,12 +12,14 @@ namespace StationBoard
         private string _scheduledFile;
         private string _announcementsFile;
         private bool _rewriteContents;
+        private int _scheduleLength;
 
-        public FileStationBoard(string announcementsFile, string scheduleFile, bool rewriteContents = true)
+        public FileStationBoard(string announcementsFile, string scheduleFile, int scheduleLength, bool rewriteContents = true)
         {
             _announcementsFile = announcementsFile;
             _scheduledFile = scheduleFile;
             _rewriteContents = rewriteContents;
+            _scheduleLength = scheduleLength;
         }
         
         public void Announce(string message)
@@ -29,7 +31,7 @@ namespace StationBoard
         public void ShowNextArrivals(IEnumerable<string> arrivals)
         {
             ClearFileIfNecessary(_scheduledFile);
-            WriteContentToFile(_scheduledFile, arrivals.ToArray());
+            WriteContentToFile(_scheduledFile, arrivals.Take(_scheduleLength).ToArray());
         }
 
         private void ClearFileIfNecessary(string filePath)

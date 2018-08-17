@@ -9,7 +9,6 @@ namespace StationOrchestrator.Orchestrator
 {
     public class DefaultOrchestrator : IStationOrchestrator
     {
-        private const int SCHEDULED_ITEMS_AMOUNT = 3; 
         private ITflProvider _provider;
         private IAnnouncementsManager _announcementsManager;
         private IStationState _stationState;
@@ -38,8 +37,7 @@ namespace StationOrchestrator.Orchestrator
         private void OnTflDataUpdated(object sender, ITflStationSchedule e)
         {
             _stationState.UpdateState(e);
-            var itemsToShowOnMonitor = e.ScheduledItems.Take(SCHEDULED_ITEMS_AMOUNT).Select(item => item.ToString());
-            _board.ShowNextArrivals(itemsToShowOnMonitor);
+            _board.ShowNextArrivals(e.ScheduledItems.Select(item => item.ToString()));
         }
     }
 }

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnouncementsManager", "Ann
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationBoard", "StationBoard\StationBoard.csproj", "{7E67EAAA-DABB-4B5B-95BC-FDDFF3FCA1F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestApp", "ConsoleTestApp\ConsoleTestApp.csproj", "{46D206CD-D98E-4A63-8003-A49BE493364D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7E67EAAA-DABB-4B5B-95BC-FDDFF3FCA1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E67EAAA-DABB-4B5B-95BC-FDDFF3FCA1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E67EAAA-DABB-4B5B-95BC-FDDFF3FCA1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D206CD-D98E-4A63-8003-A49BE493364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D206CD-D98E-4A63-8003-A49BE493364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D206CD-D98E-4A63-8003-A49BE493364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D206CD-D98E-4A63-8003-A49BE493364D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

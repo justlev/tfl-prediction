@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleTestApp/1.0.0": {
+        "dependencies": {
+          "StationOrchestrator": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTestApp.dll": {}
+        }
+      },
+      "AnnouncementsManager/1.0.0": {
+        "dependencies": {
+          "StationState": "1.0.0"
+        },
+        "runtime": {
+          "AnnouncementsManager.dll": {}
+        }
+      },
+      "StationBoard/1.0.0": {
+        "runtime": {
+          "StationBoard.dll": {}
+        }
+      },
+      "StationOrchestrator/1.0.0": {
+        "dependencies": {
+          "AnnouncementsManager": "1.0.0",
+          "StationBoard": "1.0.0",
+          "StationState": "1.0.0",
+          "TFLDataProvider": "1.0.0"
+        },
+        "runtime": {
+          "StationOrchestrator.dll": {}
+        }
+      },
+      "StationState/1.0.0": {
+        "dependencies": {
+          "TFLDataProvider": "1.0.0"
+        },
+        "runtime": {
+          "StationState.dll": {}
+        }
+      },
+      "TFLDataProvider/1.0.0": {
+        "runtime": {
+          "TFLDataProvider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnnouncementsManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StationBoard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StationOrchestrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StationState/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TFLDataProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

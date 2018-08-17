@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StationOrchestrator\StationOrchestrator.csproj">
+      <Project>{CEBE17F3-5113-4F9C-8299-964EAFF81E1A}</Project>
+      <Name>StationOrchestrator</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

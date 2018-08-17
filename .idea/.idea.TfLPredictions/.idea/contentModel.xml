@@ -21,6 +21,25 @@
           <e p="DefaultAnnouncer.cs" t="Include" />
         </e>
       </e>
+      <e p="ConsoleTestApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Config" t="Include">
+          <e p="DefaultAppConfig.cs" t="Include" />
+        </e>
+        <e p="ConsoleTestApp.csproj" t="IncludeRecursive" />
+        <e p="Container" t="Include">
+          <e p="DefaultContainer.cs" t="Include" />
+          <e p="IContainer.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ConsoleTestApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="StationBoard" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -57,6 +76,7 @@
       <e p="StationState" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Models" t="Include">
+          <e p="DefaultStationState.cs" t="Include" />
           <e p="IStationState.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">

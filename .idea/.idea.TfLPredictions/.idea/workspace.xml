@@ -2,24 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc898fd8-a75a-4249-b69f-2d91cceebcd5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CopyComplete" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/ConsoleTestApp.csproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/Program.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.runtimeconfig.dev.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/ConsoleTestApp.runtimeconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationBoard.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationOrchestrator.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationState.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/StationState.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.g.props" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/ConsoleTestApp.csproj.nuget.g.targets" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.AssemblyInfo.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.AssemblyInfoInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.CopyComplete" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/Debug/netcoreapp2.0/ConsoleTestApp.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/project.assets.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ConsoleTestApp/obj/project.packagespec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationBoard/obj/Debug/netcoreapp2.0/StationBoard.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationBoard.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationBoard.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationState.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/StationState.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.CopyComplete" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/Debug/netcoreapp2.0/StationOrchestrator.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/Models/DefaultStationState.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/StationState.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CopyComplete" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StationState/obj/Debug/netcoreapp2.0/StationState.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.deps.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.csproj.CoreCompileInputs.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.csproj.FileListAbsolute.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.pdb" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TfLPredictions/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/AnnouncementsManager.csproj" afterPath="$PROJECT_DIR$/AnnouncementsManager/AnnouncementsManager.csproj" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/Class1.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/obj/AnnouncementsManager.csproj.nuget.cache" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/AnnouncementsManager.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/obj/project.assets.json" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/AnnouncementsManager/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/AnnouncementsManager/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" afterPath="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" />
       <change beforePath="$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" afterPath="$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" />
-      <change beforePath="$PROJECT_DIR$/StationOrchestrator/StationOrchestrator.csproj" afterPath="$PROJECT_DIR$/StationOrchestrator/StationOrchestrator.csproj" />
-      <change beforePath="$PROJECT_DIR$/StationOrchestrator/obj/StationOrchestrator.csproj.nuget.cache" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/StationOrchestrator.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/StationOrchestrator/obj/project.assets.json" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/StationOrchestrator/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/StationOrchestrator/obj/project.packagespec.json" />
       <change beforePath="$PROJECT_DIR$/TfLPredictions.sln" afterPath="$PROJECT_DIR$/TfLPredictions.sln" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,17 +102,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PollingProvider.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TFLDataProvider/Providers/PollingProvider.cs">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
-                <marker date="1534499564037" expanded="true" signature="6:43" ph="..." />
-                <marker date="1534499564037" expanded="true" signature="80:383" ph="{...}" />
-                <marker date="1534499564037" expanded="true" signature="130:381" ph="{...}" />
-                <marker date="1534499564037" expanded="true" signature="195:228" ph="{...}" />
-                <marker date="1534499564037" expanded="true" signature="272:305" ph="{...}" />
+                <marker date="1534502611449" expanded="true" signature="39:146" ph="{...}" />
+                <marker date="1534502611449" expanded="true" signature="59:144" ph="{...}" />
+                <marker date="1534502611449" expanded="true" signature="105:138" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultAnnouncementsManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <marker date="1534501191122" expanded="false" signature="6:105" ph="..." />
+                <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
+                <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
+                <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
+                <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
+                <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
+                <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IContainer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <marker date="1534502655934" expanded="true" signature="6:152" ph="..." />
+                <marker date="1534502655934" expanded="true" signature="188:484" ph="{...}" />
+                <marker date="1534502655934" expanded="true" signature="222:482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultContainer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="148" lean-forward="false" selection-start-line="23" selection-start-column="148" selection-end-line="23" selection-end-column="148" />
+              <folding>
+                <marker date="1534503041527" expanded="true" signature="6:311" ph="..." />
+                <marker date="1534503041527" expanded="true" signature="347:1634" ph="{...}" />
+                <marker date="1534503041527" expanded="true" signature="396:1632" ph="{...}" />
+                <marker date="1534503041527" expanded="true" signature="786:1288" ph="{...}" />
+                <marker date="1534503041527" expanded="true" signature="1396:1626" ph="{...}" />
+                <marker date="1534503041527" expanded="true" signature="1422:1616" ph="{...}" />
+                <marker date="1534503041527" expanded="true" signature="1475:1567" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultStationState.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StationState/Models/DefaultStationState.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <marker date="1534502924522" expanded="true" signature="6:43" ph="..." />
+                <marker date="1534502924522" expanded="true" signature="74:490" ph="{...}" />
+                <marker date="1534502924522" expanded="true" signature="129:488" ph="{...}" />
+                <marker date="1534502924522" expanded="true" signature="363:482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultAppConfig.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1534503059908" expanded="true" signature="31:263" ph="{...}" />
+                <marker date="1534503059908" expanded="true" signature="74:261" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,16 +197,16 @@
       <file leaf-file-name="DefaultOrchestrator.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="453">
+              <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
               <folding>
-                <marker date="1534502182632" expanded="true" signature="6:171" ph="..." />
-                <marker date="1534502182632" expanded="true" signature="215:1553" ph="{...}" />
-                <marker date="1534502182632" expanded="true" signature="277:1551" ph="{...}" />
-                <marker date="1534502182632" expanded="true" signature="667:842" ph="{...}" />
-                <marker date="1534502182632" expanded="true" signature="908:1097" ph="{...}" />
-                <marker date="1534502182632" expanded="true" signature="1166:1229" ph="{...}" />
-                <marker date="1534502182632" expanded="true" signature="1306:1545" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="6:171" ph="..." />
+                <marker date="1534502980411" expanded="true" signature="215:1408" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="277:1406" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="612:787" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="853:1042" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="1111:1174" ph="{...}" />
+                <marker date="1534502980411" expanded="true" signature="1251:1400" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -68,8 +215,8 @@
       <file leaf-file-name="IStationBoard.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <marker date="1534502024062" expanded="true" signature="64:216" ph="{...}" />
                 <marker date="1534502024062" expanded="true" signature="101:214" ph="{...}" />
@@ -81,101 +228,20 @@
       <file leaf-file-name="FileStationBoard.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StationBoard/FileStationBoard.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
               <folding>
-                <marker date="1534502461252" expanded="true" signature="6:129" ph="..." />
-                <marker date="1534502461252" expanded="true" signature="153:1667" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="205:1665" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="441:604" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="658:793" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="861:999" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="1059:1227" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="1103:1217" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="1307:1659" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="1367:1649" ph="{...}" />
-                <marker date="1534502461252" expanded="true" signature="1428:1635" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IStationState.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <marker date="1534499845713" expanded="true" signature="6:43" ph="..." />
-                <marker date="1534499845713" expanded="true" signature="74:312" ph="{...}" />
-                <marker date="1534499845713" expanded="true" signature="111:310" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IAnnouncementsManager.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <marker date="1534500140353" expanded="true" signature="6:70" ph="..." />
-                <marker date="1534500140353" expanded="true" signature="109:294" ph="{...}" />
-                <marker date="1534500140353" expanded="true" signature="154:292" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IAnnouncer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <marker date="1534501117053" expanded="true" signature="6:77" ph="..." />
-                <marker date="1534501117053" expanded="true" signature="116:310" ph="{...}" />
-                <marker date="1534501117053" expanded="true" signature="150:308" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultAnnouncer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="56" lean-forward="false" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-              <folding>
-                <marker date="1534501819472" expanded="true" signature="6:166" ph="..." />
-                <marker date="1534501819472" expanded="true" signature="207:1792" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="256:1790" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="576:928" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="636:918" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="965:1216" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1093:1185" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1319:1784" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1482:1760" ph="{...}" />
-                <marker date="1534501819472" expanded="true" signature="1585:1742" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultAnnouncementsManager.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-              <folding>
-                <marker date="1534501191122" expanded="true" signature="6:105" ph="..." />
-                <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
-                <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="6:129" ph="..." />
+                <marker date="1534503031072" expanded="true" signature="153:1792" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="205:1790" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="498:707" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="761:896" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="964:1124" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="1184:1352" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="1228:1342" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="1432:1784" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="1492:1774" ph="{...}" />
+                <marker date="1534503031072" expanded="true" signature="1553:1760" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -200,19 +266,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TfLPredictions/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StationBoard/FileStationBoard.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StationOrchestrator/Models/IStationOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TfLPredictions/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncementsManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Models/IAnnouncer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TFLDataProvider/Models/ITflProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TFLDataProvider/Models/ITflStationSchedule.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TFLDataProvider/Models/ITflScheduledItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StationState/Models/DefaultStationState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TFLDataProvider/Providers/PollingProvider.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -239,8 +310,13 @@
         <option value="$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncer.cs" />
         <option value="$PROJECT_DIR$/StationBoard/Class1.cs" />
         <option value="$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs" />
+        <option value="$PROJECT_DIR$/ConsoleTestApp/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs" />
+        <option value="$PROJECT_DIR$/StationState/Models/DefaultStationState.cs" />
         <option value="$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs" />
         <option value="$PROJECT_DIR$/StationBoard/FileStationBoard.cs" />
+        <option value="$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs" />
+        <option value="$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs" />
       </list>
     </option>
   </component>
@@ -276,18 +352,79 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AnnouncementsManager" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Config" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ConsoleTestApp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Container" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StationBoard" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StationBoard" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StationOrchestrator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StationOrchestrator" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Orchestrator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="StationState" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TfLPredictions (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="StationState" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TfLPredictions (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TFLDataProvider" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -343,12 +480,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534498124798</updated>
-      <workItem from="1534498126040" duration="3572000" />
+      <workItem from="1534498126040" duration="4218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3572000" />
+    <option name="totallyTimeSpent" value="4218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,7 +498,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="23" width="1680" height="977" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,10 +506,11 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -467,20 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TFLDataProvider/Providers/PollingProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <marker date="1534499564037" expanded="true" signature="6:43" ph="..." />
-            <marker date="1534499564037" expanded="true" signature="80:383" ph="{...}" />
-            <marker date="1534499564037" expanded="true" signature="130:381" ph="{...}" />
-            <marker date="1534499564037" expanded="true" signature="195:228" ph="{...}" />
-            <marker date="1534499564037" expanded="true" signature="272:305" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StationOrchestrator/Container/IContainer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -564,18 +687,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
+    <entry file="file://$PROJECT_DIR$/StationBoard/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <marker date="1534501191122" expanded="true" signature="6:105" ph="..." />
-            <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
-            <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+            <marker date="1534499845713" expanded="true" signature="6:43" ph="..." />
+            <marker date="1534499845713" expanded="true" signature="74:312" ph="{...}" />
+            <marker date="1534499845713" expanded="true" signature="111:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFLDataProvider/Providers/PollingProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1534499564037" expanded="true" signature="6:43" ph="..." />
+            <marker date="1534499564037" expanded="true" signature="80:383" ph="{...}" />
+            <marker date="1534499564037" expanded="true" signature="130:381" ph="{...}" />
+            <marker date="1534499564037" expanded="true" signature="195:228" ph="{...}" />
+            <marker date="1534499564037" expanded="true" signature="272:305" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -591,34 +732,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StationBoard/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/IContainer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <marker date="1534502655934" expanded="true" signature="6:152" ph="..." />
+            <marker date="1534502655934" expanded="true" signature="188:484" ph="{...}" />
+            <marker date="1534502655934" expanded="true" signature="222:482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StationState/Models/DefaultStationState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1534502924522" expanded="true" signature="6:43" ph="..." />
+            <marker date="1534502924522" expanded="true" signature="74:490" ph="{...}" />
+            <marker date="1534502924522" expanded="true" signature="129:488" ph="{...}" />
+            <marker date="1534502924522" expanded="true" signature="363:482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1534502611449" expanded="true" signature="39:146" ph="{...}" />
+            <marker date="1534502611449" expanded="true" signature="59:144" ph="{...}" />
+            <marker date="1534502611449" expanded="true" signature="105:138" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnnouncementsManager/Services/DefaultAnnouncementsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1534501191122" expanded="false" signature="6:105" ph="..." />
+            <marker date="1534501191122" expanded="true" signature="146:969" ph="{...}" />
+            <marker date="1534501191122" expanded="true" signature="217:967" ph="{...}" />
+            <marker date="1534501191122" expanded="true" signature="408:464" ph="{...}" />
+            <marker date="1534501191122" expanded="true" signature="548:624" ph="{...}" />
+            <marker date="1534501191122" expanded="true" signature="702:840" ph="{...}" />
+            <marker date="1534501191122" expanded="true" signature="899:961" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StationOrchestrator/Orchestrator/DefaultOrchestrator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="453">
+          <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding>
-            <marker date="1534502182632" expanded="true" signature="6:171" ph="..." />
-            <marker date="1534502182632" expanded="true" signature="215:1553" ph="{...}" />
-            <marker date="1534502182632" expanded="true" signature="277:1551" ph="{...}" />
-            <marker date="1534502182632" expanded="true" signature="667:842" ph="{...}" />
-            <marker date="1534502182632" expanded="true" signature="908:1097" ph="{...}" />
-            <marker date="1534502182632" expanded="true" signature="1166:1229" ph="{...}" />
-            <marker date="1534502182632" expanded="true" signature="1306:1545" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="6:171" ph="..." />
+            <marker date="1534502980411" expanded="true" signature="215:1408" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="277:1406" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="612:787" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="853:1042" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="1111:1174" ph="{...}" />
+            <marker date="1534502980411" expanded="true" signature="1251:1400" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StationBoard/Models/IStationBoard.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <marker date="1534502024062" expanded="true" signature="64:216" ph="{...}" />
             <marker date="1534502024062" expanded="true" signature="101:214" ph="{...}" />
@@ -628,32 +814,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StationBoard/FileStationBoard.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
           <folding>
-            <marker date="1534502461252" expanded="true" signature="6:129" ph="..." />
-            <marker date="1534502461252" expanded="true" signature="153:1667" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="205:1665" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="441:604" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="658:793" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="861:999" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="1059:1227" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="1103:1217" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="1307:1659" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="1367:1649" ph="{...}" />
-            <marker date="1534502461252" expanded="true" signature="1428:1635" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="6:129" ph="..." />
+            <marker date="1534503031072" expanded="true" signature="153:1792" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="205:1790" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="498:707" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="761:896" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="964:1124" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="1184:1352" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="1228:1342" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="1432:1784" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="1492:1774" ph="{...}" />
+            <marker date="1534503031072" expanded="true" signature="1553:1760" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StationState/Models/IStationState.cs">
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Container/DefaultContainer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="23" column="148" lean-forward="false" selection-start-line="23" selection-start-column="148" selection-end-line="23" selection-end-column="148" />
           <folding>
-            <marker date="1534499845713" expanded="true" signature="6:43" ph="..." />
-            <marker date="1534499845713" expanded="true" signature="74:312" ph="{...}" />
-            <marker date="1534499845713" expanded="true" signature="111:310" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="6:311" ph="..." />
+            <marker date="1534503041527" expanded="true" signature="347:1634" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="396:1632" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="786:1288" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="1396:1626" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="1422:1616" ph="{...}" />
+            <marker date="1534503041527" expanded="true" signature="1475:1567" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Config/DefaultAppConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1534503059908" expanded="true" signature="31:263" ph="{...}" />
+            <marker date="1534503059908" expanded="true" signature="74:261" ph="{...}" />
           </folding>
         </state>
       </provider>

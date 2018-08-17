@@ -1,0 +1,13 @@
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.deps.json
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.dll
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/AnnouncementsManager.pdb
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.dll
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.dll
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/StationState.pdb
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CoreCompileInputs.cache
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.AssemblyInfoInputs.cache
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.AssemblyInfo.cs
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.csproj.CopyComplete
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.dll
+/Users/levperlman/Git/tfl-predictions/AnnouncementsManager/obj/Debug/netcoreapp2.0/AnnouncementsManager.pdb

@@ -1,0 +1,8 @@
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.deps.json
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.dll
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.csproj.CoreCompileInputs.cache
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.AssemblyInfoInputs.cache
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.AssemblyInfo.cs
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.dll
+/Users/levperlman/Git/tfl-predictions/TFLDataProvider/obj/Debug/netcoreapp2.0/TFLDataProvider.pdb

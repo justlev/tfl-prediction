@@ -1,0 +1,11 @@
+/Users/levperlman/Git/tfl-predictions/StationState/bin/Debug/netcoreapp2.0/StationState.deps.json
+/Users/levperlman/Git/tfl-predictions/StationState/bin/Debug/netcoreapp2.0/StationState.dll
+/Users/levperlman/Git/tfl-predictions/StationState/bin/Debug/netcoreapp2.0/StationState.pdb
+/Users/levperlman/Git/tfl-predictions/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.dll
+/Users/levperlman/Git/tfl-predictions/StationState/bin/Debug/netcoreapp2.0/TFLDataProvider.pdb
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CoreCompileInputs.cache
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.AssemblyInfoInputs.cache
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.AssemblyInfo.cs
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.csproj.CopyComplete
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.dll
+/Users/levperlman/Git/tfl-predictions/StationState/obj/Debug/netcoreapp2.0/StationState.pdb
